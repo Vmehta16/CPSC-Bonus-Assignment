@@ -4,12 +4,12 @@ author: "Vishal Mehta"
 output: html_notebook
 ---
 
-# Practice notebook
+# Practice notebook 2
 
-This is my practice notebook
+This is my second practice notebook
 
 ```{r}
-plot(cars)
+plot(mtcars$mpg, mtcars$wt)
 ```
 
 
